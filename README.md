@@ -1,1 +1,1 @@
-# Sense_hat
+# Sense hat code
